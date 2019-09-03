@@ -1,2 +1,6 @@
 # Movie-Ratings
-A simple ruby program that tracks movie ratings
+This is a simple ruby program that tracks movie ratings
+
+## Program Requirements
+
+* Ruby Compiler 
